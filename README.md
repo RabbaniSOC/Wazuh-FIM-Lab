@@ -22,7 +22,7 @@ The solution leverages native operating system monitoring mechanisms:
 
 ---
 
-# 🏗️ Lab Architecture
+# Lab Architecture
 
 ## Components
 
